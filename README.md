@@ -1,3 +1,7 @@
+[![doi](https://img.shields.io/badge/DOI-10.17605/OSF.IO/VJKUX-blue)][doi]
+
+[doi]: https://doi.org/10.17605/OSF.IO/VJKUX
+
 # Working-age mortality is still an important driver of stagnating life expectancy in the United States
 
 ## Purpose of this Repository
